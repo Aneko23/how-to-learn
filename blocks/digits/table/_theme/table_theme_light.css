@@ -1,0 +1,5 @@
+.table_theme_light {
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+  }
