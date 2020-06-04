@@ -8,4 +8,9 @@
     display: flex;
     justify-content: space-between;
     width: 80%;
+    margin: 160px auto 80px;
+  }
+
+  .two-columns:first-child {
+    background-color: white;
   }

@@ -1,0 +1,6 @@
+.two-columns__oakley {
+    background-color: #f2f2f2;
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+}

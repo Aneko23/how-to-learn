@@ -1,5 +1,8 @@
 @import url(./two-columns/two-columns.css);
 
 .oakley {
+    width: 100%;
     background-color: #f2f2f2;
+    margin: 0 auto 0;
+    align-items: center;
 }

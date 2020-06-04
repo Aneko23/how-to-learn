@@ -1,7 +1,3 @@
 @import url(./__brief/two-columns__brief.css);
 @import url(./__paragraph/two-columns__paragraph.css);
-
-.two-columns {
-    background-color: #f2f2f2;
-    margin: 160px auto 80px;
-}
+@import url(./__oakley/two-columns__oakley.css);

@@ -6,3 +6,7 @@
     font-weight: normal;
     margin: 0;
   }
+
+  .two-columns__brief:first-child {
+    background-color: white;
+  }
