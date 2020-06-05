@@ -1,0 +1,13 @@
+@import url(../__brief/_theme/two-columns__brief_theme_light.css);
+@import url(../__main-text/_theme/two-columns__main-text_theme_light.css);
+@import url(../__paragraph/two-columns__paragraph.css);
+@import url(../__span-accent/two-columns__span-accent.css);
+
+.two-columns_theme_light {
+  margin: 0 auto 0;
+  padding: 0;
+  display: flex;
+  justify-content: space-between;
+  width: 80%;
+  background-color: white;
+  }

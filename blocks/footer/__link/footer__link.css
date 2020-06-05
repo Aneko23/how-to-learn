@@ -2,3 +2,8 @@
     color: white;
     text-decoration: none;
   }
+
+  .footer__link:hover {
+    transition: opacity 3s linear;
+    opacity: .3;
+  }

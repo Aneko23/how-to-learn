@@ -1,1 +1,11 @@
-@import url(../two-columns/two-columns.css);
+@import url(../two-columns/_theme/two-columns_theme_light.css);
+@import url(../two-columns/__brief/_theme/two-columns__brief_theme_light.css);
+@import url(../two-columns/__main-text/_theme/two-columns__main-text_theme_light.css);
+@import url(../two-columns/__paragraph/two-columns__paragraph.css);
+@import url(../two-columns/__span-accent/two-columns__span-accent.css);
+
+.description {
+    background-color: white;
+    margin: 100px auto 0;
+    padding: 0;
+}

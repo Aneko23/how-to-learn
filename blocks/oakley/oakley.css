@@ -1,6 +1,6 @@
 @import url(../two-columns/_theme/two-columns_theme_grey.css);
 @import url(../two-columns/__brief/_theme/two-columns__brief_theme_grey.css);
-@import url(../two-columns/__paragraph/two-columns__paragraph.css);
+@import url(../two-columns/__paragraph/_theme/two-columns__paragraph_theme_grey.css);
 @import url(../two-columns/__main-text/_theme/two-columns__main-text_theme_grey.css);
 
 .oakley {
@@ -8,5 +8,5 @@
     background-color: #f2f2f2;
     margin: 0 auto 0;
     align-items: center;
-    padding-top: 50px;
+    padding-top: 160px;
 }

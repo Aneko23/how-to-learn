@@ -1,8 +1,9 @@
-.two-columns__brief {
+.two-columns__brief_theme_light {
     color: #2f80ed;
     width: 175px;
     line-height: 1.2;
     font-size: 18px;
     font-weight: normal;
     margin: 0;
+    background-color: white;
   }
