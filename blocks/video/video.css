@@ -4,5 +4,5 @@
 @import url(./__iframe/video__iframe.css);
 
 .video {
-    position: relative;
+    height: 400px;
 }

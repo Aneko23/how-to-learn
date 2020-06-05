@@ -1,0 +1,6 @@
+.two-columns__main-text_theme_grey {
+    width: 80%;
+    min-width: 784px;
+    flex-direction: column;
+    background-color: #f2f2f2;
+  }

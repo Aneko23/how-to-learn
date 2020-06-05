@@ -4,13 +4,8 @@
 @import url(./__span-accent/two-columns__span-accent.css);
 
 .two-columns {
-    margin: 100px auto 0;
-    display: flex;
-    justify-content: space-between;
-    width: 80%;
-    margin: 160px auto 80px;
-  }
-
-  .two-columns:first-child {
-    background-color: white;
+  margin: 100px auto 0;
+  display: flex;
+  justify-content: space-between;
+  width: 80%;
   }

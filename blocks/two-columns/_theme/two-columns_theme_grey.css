@@ -1,0 +1,7 @@
+.two-columns {
+    margin: 100px auto 0;
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    background-color: #f2f2f2;
+    }
